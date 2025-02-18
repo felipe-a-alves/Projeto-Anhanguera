@@ -1,0 +1,13 @@
+Principais benefícios da utilização de um repositório
+
+Como responsável pelo ITIL, a implementação de um repositório como parte da Gestão de configuração é uam decisão estratégica essencial para nossa organização.
+Nossa equipe terá muitos benefícios com essa iniciativa:
+Centralização de Artefatos trará facilidade de acesso, ou seja, todos os artefatos, desde requisitos e documentações até mesmo diagramas e código-fonte, serão armazenados em um local centralizado e acessível a todos os membros da equipe.
+Organização: manteremos os artefatos organizados e categorizados, facilitando a busca e o gerenciamento.
+Controle de Versão também será um dos benefícios pois teremos rastreabilidade em cada mudança nos artefatos e todas serão registradas, permitindo rastrear o histórico de alterações e identificarquem fez o quê e quando.
+Teremos também como benefício a reversibilidade, ou seja, a possibilidade de reverter artefatos anteriores em caso de problemas, garantindo a segurança e a integridade do projeto.
+Por causa destes efeitos que teremos vamos ter uma colaboração eficiente, pois nosso trabalho será simultâneo, nosa equipe de desenvolvimento poderá colaborar simultaneamente em difenrentes partes do projeto sem conflitos.
+Sobre as seguranças e permissões teremos controle de acesso, o que significa que a nossa equipe de desenvolvimento poderá colaborar simultaneamente em diferentes partes do projeto sem conflitos, o que facilitará as revisões e aprovações já que ficará mais fácil o processo de revisão e aprovação de artefatos, garantindo que somente as alterações validadas sejam integradas.
+Com a segurança aprimorada definiremos permissões de acesso para cada membro da equipe, aumentando a segurança e a proteção dos dados.
+Registraremos todas as atividades realizadas no repositório, permitindo auditorias e verificações de conformidade.
+Um ponto importante é a Integridade e Conformidade, pois atenderemos aos requisitos de governança, ITIL, COBIT e ESG, garantindo que nossos processos e procedimentos sejam seguidos de maneira consistente.

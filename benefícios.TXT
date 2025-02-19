@@ -1,6 +1,6 @@
 Principais benefícios da utilização de um repositório
 
-Como responsável pelo ITIL, a implementação de um repositório como parte da Gestão de configuração é uam decisão estratégica essencial para nossa organização.
+Como responsável pelo ITIL, a implementação de um repositório como parte da Gestão de configuração é uma decisão estratégica essencial para nossa organização.
 Nossa equipe terá muitos benefícios com essa iniciativa:
 Centralização de Artefatos trará facilidade de acesso, ou seja, todos os artefatos, desde requisitos e documentações até mesmo diagramas e código-fonte, serão armazenados em um local centralizado e acessível a todos os membros da equipe.
 Organização: manteremos os artefatos organizados e categorizados, facilitando a busca e o gerenciamento.
@@ -11,3 +11,10 @@ Sobre as seguranças e permissões teremos controle de acesso, o que significa q
 Com a segurança aprimorada definiremos permissões de acesso para cada membro da equipe, aumentando a segurança e a proteção dos dados.
 Registraremos todas as atividades realizadas no repositório, permitindo auditorias e verificações de conformidade.
 Um ponto importante é a Integridade e Conformidade, pois atenderemos aos requisitos de governança, ITIL, COBIT e ESG, garantindo que nossos processos e procedimentos sejam seguidos de maneira consistente.
+Vamos promover a padronização dos processos de desenvolvimento e gerenciamento de artefatos.
+Integraremos o repositório com ferramentas de CI/CD, automatizando testes e deploys, e garantindo que as mudanças sejam aplicadas de maneira eficiente e segura.
+Automação de processos: será reduzido o trabalho manual e aumentaremos a eficiência com automação de processos de configuração e gerenciamento de artefatos.
+A documentação e manutenção contínua será facilitada, pois assim será garantido que estejam sempre atualizados e refletino o estado atual do projeto.
+Documentação abrangente, garantiremos que toda a documentação necessária estará disponível e acessível, facilitando o onboarding de novos membros e a transferência de conhecimento.
+Suporte à tomada de decisão sobre as informações centralziadas nós vamos proprocionar uma visão consolidada do estado do projeto e dos artefatos, apoiando a tomada de decisões informadas e estratégicas.
+E por fim, a implementação de um repositório não só melhorará a eficiência e a qualidade do desenvolvimento de software, mas também assegurará a conformidade com padrões de governança e segurança, promovendo um ambiente de trabalho colaborativo e organizado.
